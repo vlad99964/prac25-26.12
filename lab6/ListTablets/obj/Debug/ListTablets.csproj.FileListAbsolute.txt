@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\lab6\ListTablets\bin\Debug\ListTablets.exe.config
+C:\Users\Admin\source\repos\lab6\ListTablets\bin\Debug\ListTablets.exe
+C:\Users\Admin\source\repos\lab6\ListTablets\bin\Debug\ListTablets.pdb
+C:\Users\Admin\source\repos\lab6\ListTablets\obj\Debug\ListTablets.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\lab6\ListTablets\obj\Debug\ListTablets.mainForm.resources
+C:\Users\Admin\source\repos\lab6\ListTablets\obj\Debug\ListTablets.Properties.Resources.resources
+C:\Users\Admin\source\repos\lab6\ListTablets\obj\Debug\ListTablets.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\lab6\ListTablets\obj\Debug\ListTablets.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lab6\ListTablets\obj\Debug\ListTablets.exe
+C:\Users\Admin\source\repos\lab6\ListTablets\obj\Debug\ListTablets.pdb

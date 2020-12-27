@@ -1,0 +1,26 @@
+<gameResults>
+  <player id="1">
+    <name>Monster</name>
+    <score>250</score>
+  </player>
+  <player id="2">
+    <name>Mila</name>
+    <score>150</score>
+  </player>
+  <player id="2">
+    <name>Hero</name>
+    <score>250</score>
+  </player>
+  <player id="3">
+    <name>MB</name>
+    <score>50</score>
+  </player>
+  <player id="4">
+    <name>Toxic</name>
+    <score>70</score>
+  </player>
+  <player id="6">
+    <name>test</name>
+    <score>50</score>
+  </player>
+</gameResults>
